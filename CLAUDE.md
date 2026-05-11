@@ -18,11 +18,7 @@
 - Login requires a visible browser (`headless=False`) to pass Cloudflare Turnstile.
 
 ## Athlete Profile
-- 5K PB: 15:14 (2025-10-28, track, Xi'an)
-- 10K PB: 31:48 (2025-10-26, track, Xi'an)
-- Marathon: 2:27:20 (2025-03-23, Wuxi)
-- VO2Max: 71
-- Weight: 65kg, Height: 175cm
-- Birth: 2004-07-01
-- Location: Xi'an, China
-- Garmin device: 3427042293
+- 5K PB: 15:14 (Oct 2025)
+- 10K PB: 31:48 (Oct 2025)
+- Marathon: ~2:27 (Mar 2025)
+- VO2Max: ~71
