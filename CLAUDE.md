@@ -18,7 +18,6 @@
 - Login requires a visible browser (`headless=False`) to pass Cloudflare Turnstile.
 
 ## Athlete Profile
-- 5K PB: 15:14 (Oct 2025)
-- 10K PB: 31:48 (Oct 2025)
+- 5K PB: 15:14 (Oct 2025, Xi'an)
+- 10K PB: 31:48 (Oct 2025, Xi'an)
 - Marathon: ~2:27 (Mar 2025)
-- VO2Max: ~71
