@@ -20,4 +20,4 @@
 ## Athlete Profile
 - 5K PB: 15:14 (Oct 2025, Xi'an)
 - 10K PB: 31:48 (Oct 2025, Xi'an)
-- Marathon: ~2:27 (Mar 2025)
+- Marathon: ~2:27 (Mar 2025, Wuxi)
