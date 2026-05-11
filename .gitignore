@@ -1,0 +1,23 @@
+# Garmin session (contains auth cookies — NEVER commit)
+.garmin-connect-mcp/
+.garminconnect/
+session.json
+
+# Environment (contains credentials)
+.env
+
+# Node
+node_modules/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
